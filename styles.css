@@ -1,0 +1,19 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+canvas {
+    margin:10px;
+    border:1px solid black;
+    padding:1px;
+    display:inline-flex;
+}
+
+form {
+    margin-left:10px;
+}
+
+input {
+    margin-right:5px;
+}
